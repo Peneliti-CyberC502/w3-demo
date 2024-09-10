@@ -1,0 +1,6 @@
+services:
+  express:
+    build: .
+    ports: 
+      - "80:3000"
+
